@@ -39,10 +39,31 @@ Quick-Kart is a modern online shopping website developed to provide users with a
 - Git & GitHub
 
 ## 📂 Project Structure
+## 📸 Screenshots
+
+### Home Page
+![Home Page](images/homepage.png)
+
+### Product Page
+![Product Page](images/productpage.png)
+
+### Cart Page
+![Cart Page](images/cartpage.png)
+
+### Checkout Page
+![Checkout Page](images/checkout.png)
+
+### Login Page
+![Login Page](images/login.png)
 
 ```text
+
+
 Quick-Kart/
 │── frontend/
 │── backend/
 │── README.md
 │── .gitignore
+
+
+
