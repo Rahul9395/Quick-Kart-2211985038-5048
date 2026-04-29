@@ -39,27 +39,20 @@ Quick-Kart is a modern online shopping website developed to provide users with a
 - Git & GitHub
 
 ## 📂 Project Structure
-## 📸 Screenshots
-
 ### Home Page
-![Home Page](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1a270625-2cd8-4985-88e3-68f592d9a7db" />
-)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1a270625-2cd8-4985-88e3-68f592d9a7db">
 
 ### Product Page
-![Product Page](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/840f3691-f0e3-4f54-b206-178b8268c04f" />
-)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/840f3691-f0e3-4f54-b206-178b8268c04f">
 
 ### Cart Page
-![Cart Page](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7d860c5c-2465-48d2-9e42-5c7cabe7c4f0" />
-)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7d860c5c-2465-48d2-9e42-5c7cabe7c4f0">
 
 ### Checkout Page
-![Checkout Page](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a8e47dec-c745-41e6-be54-f4520191c2b0" />
-)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a8e47dec-c745-41e6-be54-f4520191c2b0">
 
 ### Login Page
-![Login Page](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6ccfa6ed-9118-46a6-b0f9-44f9cd02185a" />
-)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6ccfa6ed-9118-46a6-b0f9-44f9cd02185a">
 
 ```text
 
